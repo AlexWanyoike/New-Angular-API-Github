@@ -15,6 +15,17 @@ This is a Github API that helps user have the ability to search Username and Rep
 ## Set Up Instruction Section
 This project set up set up only requires the running of the link. The link will direct you to the github repository which hosts the website. 
 
+No installation information or packages required only angular npm.
+
+Set up:
+* Clone the repository from the Github repo by: 
+
+git clone https://github.com/AlexWanyoike/New-Angular-API-Github.git
+
+* Clone all the information to your local repository and analyze the data in a more effective manner. 
+
+
+
 ## Setup/Installation Requirements
 * CSS
 * HTML
