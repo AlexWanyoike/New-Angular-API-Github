@@ -24,6 +24,10 @@ git clone https://github.com/AlexWanyoike/New-Angular-API-Github.git
 
 * Clone all the information to your local repository and analyze the data in a more effective manner. 
 
+* Link to access the Angular Project
+
+https://alexwanyoike.github.io/GithubAPInew/
+
 
 
 ## Setup/Installation Requirements
