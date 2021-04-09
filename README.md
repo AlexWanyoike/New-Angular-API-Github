@@ -18,3 +18,5 @@ This is a Github API that helps users have the ability to search Usernames and R
 * Typescript
 * Bootstrap
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.5.
+
+## Development server
