@@ -11,6 +11,10 @@
  
 ##  Project Description
 This is a Github API that helps user have the ability to search Username and Repositories. Users person profile and Github details.
+
+## Set Up Instruction Section
+This project set up set up only requires the running of the link. The link will direct you to the github repository which hosts the website. 
+
 ## Setup/Installation Requirements
 * CSS
 * HTML
