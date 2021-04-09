@@ -8,3 +8,6 @@
 ### Authored by:
  
 * Wanyoike Alex
+
+##  Project Description
+This is a Github API that helps users have the ability to search Usernames and Repositories. Users person profile and Github details.
